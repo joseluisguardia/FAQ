@@ -1,0 +1,2 @@
+# FAQ
+Frequent resolution problems
